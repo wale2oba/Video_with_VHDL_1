@@ -1,0 +1,10 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity video1 is
+end entity video1;
+
+architecture display of video1 is
+begin
+
+end architecture display;
